@@ -23,11 +23,13 @@ body {
 .display {
     background-color: #000000;
     color: rgb(255, 255, 255);
-    font-size: 4vw; 
+    font-size: 2vw; 
     text-align: right; 
     padding: 1%;
-    border-radius: 2%;
+    border-radius: 5%;
     margin-bottom: 4%; 
+    width: 97%;
+    height: 15%;
 }
 
 .buttons {
